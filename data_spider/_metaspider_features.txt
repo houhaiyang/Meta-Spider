@@ -1,0 +1,150 @@
+Bacteroides vulgatus
+Faecalibacterium prausnitzii
+Bacteroides uniformis
+Bacteroides dorei
+Bacteroides ovatus
+Bacteroides fragilis
+Escherichia coli
+Parabacteroides distasonis
+Bacteroides thetaiotaomicron
+Bacteroides sp. A1C1
+Blautia sp. SC05B48
+Anaerostipes hadrus
+Roseburia intestinalis
+Collinsella aerofaciens
+Bifidobacterium adolescentis
+[Eubacterium] eligens
+Alistipes sp. 3BBH6
+Akkermansia muciniphila
+Bacteroides sp. PHL 2737
+Bacteroides cellulosilyticus
+Bacteroides xylanisolvens
+Bifidobacterium longum
+Anaerobutyricum hallii
+Bacteroides caccae
+[Ruminococcus] gnavus
+Ruminococcus bicirculans
+Megamonas funiformis
+Roseburia hominis
+Alistipes shahii
+Bifidobacterium pseudocatenulatum
+Odoribacter splanchnicus
+Dysosmobacter welbionis
+Longibaculum sp. KGMB06250
+Ruthenibacterium lactatiformans
+Parabacteroides sp. CT06
+Streptococcus salivarius
+[Clostridium] bolteae
+Flavonifractor plautii
+Bacteroides intestinalis
+Phascolarctobacterium faecium
+Klebsiella pneumoniae
+Alistipes finegoldii
+Oscillibacter sp. PEA192
+Alistipes sp. 5CBH24
+Paraprevotella xylaniphila
+Clostridioides difficile
+Bacteroides caecimuris
+Butyricimonas faecalis
+Bacteroides salanitronis
+Faecalitalea cylindroides
+Intestinimonas butyriciproducens
+Prevotella intermedia
+Bifidobacterium bifidum
+Acidaminococcus intestini
+Fusobacterium mortiferum
+Megasphaera elsdenii
+[Clostridium] clostridioforme
+Eggerthella lenta
+Haemophilus parainfluenzae
+Blautia hansenii
+Bifidobacterium catenulatum
+Alistipes sp. Marseille-P5997
+Streptococcus thermophilus
+Mordavella sp. Marseille-P3756
+Alistipes sp. 5CPEGH6
+Adlercreutzia equolifaciens
+[Clostridium] innocuum
+Blautia producta
+[Clostridium] scindens
+Dialister sp. 5BBH33
+Prevotella melaninogenica
+Dialister sp. Marseille-P5638
+Blautia sp. YL58
+Alistipes indistinctus
+Prevotella ruminicola
+Christensenella minuta
+Bacteroides helcogenes
+Blautia sp. N6H1-15
+Erysipelatoclostridium ramosum
+Klebsiella variicola
+Streptococcus parasanguinis
+Klebsiella quasipneumoniae
+Ruminococcus sp. JE7A12
+Prevotella oris
+Enterococcus faecium
+Lachnoclostridium phocaeense
+Streptococcus pasteurianus
+Prevotella dentalis
+Salmonella enterica
+Bacteroides heparinolyticus
+Bifidobacterium breve
+Lachnoclostridium sp. YL32
+Desulfovibrio piger
+Veillonella parvula
+Romboutsia ilealis
+Prevotella denticola
+Porphyromonas asaccharolytica
+Streptococcus sp. HSISM1
+Prevotella fusca
+Parvimonas micra
+Clostridium sp. SY8519
+Ruminococcus champanellensis
+Bacteroides zoogleoformans
+Monoglobus pectinilyticus
+Enterococcus faecalis
+Barnesiella viscericola
+Raoultella ornithinolytica
+Klebsiella aerogenes
+Lactobacillus salivarius
+Oscillibacter valericigenes
+Prevotella scopos
+Veillonella atypica
+Streptococcus agalactiae
+[Clostridium] saccharolyticum
+Veillonella dispar
+Prevotella jejuni
+Acidaminococcus fermentans
+Enterobacter hormaechei
+Pseudobutyrivibrio xylanivorans
+Lactobacillus ruminis
+Lactococcus lactis
+Citrobacter freundii
+Pseudomonas aeruginosa
+Streptococcus sp. HSISS1
+Prevotella enoeca
+Klebsiella oxytoca
+Hungatella hathewayi
+Lactobacillus paragasseri
+Anaerostipes rhamnosivorans
+Raoultella planticola
+Cloacibacillus porcorum
+Gordonibacter pamelaeae
+Bifidobacterium dentium
+Turicibacter sp. H121
+[Clostridium] hylemonae
+Fusobacterium varium
+Streptococcus sp. FDAARGOS 192
+Acutalibacter muris
+Campylobacter coli
+Clostridium perfringens
+Prevotella sp. oral taxon 299
+Eubacterium maltosivorans
+Citrobacter braakii
+Butyrivibrio fibrisolvens
+Anaerostipes caccae
+Streptococcus oralis
+Olsenella sp. GAM18
+Streptococcus anginosus
+Eubacterium limosum
+Christensenella sp. Marseille-P3954

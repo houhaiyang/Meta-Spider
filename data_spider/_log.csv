@@ -1,0 +1,12 @@
+Variable,Value
+outdir,3.data_spider\Set_3_1
+th_occ_feature,0.05
+th_occ_sample,0.05
+corr_th,0.2
+top,5
+n_jobs,8
+quantile,-1
+N_all,67
+N_feature,150
+N_core,20
+created_time,2023-10-24 14:34:20
