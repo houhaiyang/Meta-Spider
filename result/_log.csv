@@ -1,0 +1,12 @@
+Variable,Value
+outdir,result
+th_occ_feature,0.5
+th_occ_sample,0.5
+corr_th,0.35
+top,5
+n_jobs,8
+quantile,25
+N_all,1000
+N_feature,106
+N_core,50
+created_time,2023-08-17 15:14:44
